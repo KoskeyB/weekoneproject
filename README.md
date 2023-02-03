@@ -11,6 +11,11 @@ Its an about me page briefly describing myself.
 ### Project setup instructions
 clone my repository from link - https://github.com/KoskeyB/weekoneproject.git
 
+### Technologies and Tools used
+- HTML
+- CSS
+- Visual Studio Code
+
 ### Link to live site on GitHub Pages
 Go live link - https://KoskeyB/github.io/weekoneproject
 
