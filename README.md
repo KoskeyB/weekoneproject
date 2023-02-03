@@ -1,23 +1,26 @@
-## Project or program name
+## Project Name
 
 PORTFOLIO
 
-### Author Name
+### Author 
 KOSKEY BRIAN
 
 ### Description of project
-Its an about me page briefly describing myself.
+Its a portfolio page briefly describing me.
 
-### Project setup instructions
-clone my repository from link - https://github.com/KoskeyB/weekoneproject.git
+### Setup instructions
+- clone my repository from link - https://github.com/KoskeyB/weekoneproject.git
+- open the clone using vscode.
+- Go live
 
 ### Technologies and Tools used
 - HTML
 - CSS
 - Visual Studio Code
+- Git and Github
 
 ### Link to live site on GitHub Pages
-Go live link - https://KoskeyB/github.io/weekoneproject
+Go live link - https://koskeyb.github.io/weekoneproject/
 
 ### copyright and license information
 (c) 2023 February - Koskey Brian
