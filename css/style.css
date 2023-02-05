@@ -19,21 +19,20 @@ ul {
 }
 img {
     float: right;
-    display: inline-block;
 
 }
 .div1 {
-    border: 5px outset rosybrown;
+    border: 10px outset rosybrown;
     background-color: aqua;
     text-align: left;
 }
 .div2 {
-    border: 5px outset rosybrown;
+    border: 10px outset rosybrown;
     background-color: burlywood;
     text-align: left;
 }
 .div3 {
-    border: 10px outset rosybrown;
+    border: 5px outset rosybrown;
     background-color: burlywood;
     text-align: left;
 }
