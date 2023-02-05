@@ -16,6 +16,11 @@ ul {
     font-family: sans-serif;
 
 }
+ol {
+    list-style: lower-alpha;
+    font-family: sans-serif;
+
+}
 .list {
     font-variant-numeric: normal;
 }
@@ -26,7 +31,7 @@ img {
 }
 .div1 {
     border: 10px outset rosybrown;
-    background-color: aqua;
+    background-color: burlywood;
     text-align: left;
 }
 .div2 {
@@ -36,6 +41,6 @@ img {
 }
 .div3 {
     border: 5px outset rosybrown;
-    background-color: burlywood;
+    background-color: aqua;
     text-align: left;
 }
