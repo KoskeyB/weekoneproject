@@ -1,6 +1,8 @@
 h1,h2 {
     text-align: center;
     color: royalblue;
+    border: 15px outset burlywood;
+    background-color: darkgrey;
 
 }
 p {
@@ -11,7 +13,7 @@ p {
 }
 ul {
     list-style: square;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
 
 }
 .list {
@@ -19,6 +21,7 @@ ul {
 }
 img {
     float: right;
+    border: 2px outset burlywood;
 
 }
 .div1 {
