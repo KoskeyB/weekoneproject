@@ -1,11 +1,12 @@
-h {
+#h {
     text-align: center;
-    text-decoration-color: royalblue;
+    color: royalblue;
 
 }
 p {
     font-family: sans-serif;
     text-align: left;
+    color: black;
 
 }
 ul {
@@ -16,7 +17,8 @@ ul {
 .list {
     font-variant-numeric: normal;
 }
-  
-
+img {
+    float: right;
+    display: inline ;
 
 }
