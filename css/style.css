@@ -1,0 +1,22 @@
+h {
+    text-align: center;
+    text-decoration-color: royalblue;
+
+}
+p {
+    font-family: sans-serif;
+    text-align: left;
+
+}
+ul {
+    list-style: square;
+    color: red;
+
+}
+.list {
+    font-variant-numeric: normal;
+}
+  
+
+
+}
